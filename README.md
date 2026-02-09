@@ -24,9 +24,9 @@ This project's goal is to use Excel, SQL, Tableau, and Power BI to turn raw data
 - <a href="https://github.com/Sarvadnya-Thube/Adventure-Works-Project/blob/main/Power%20BI%20Dashboard%20image.png"> Power BI Dashboard</a>
 - <a href="https://github.com/Sarvadnya-Thube/Adventure-Works-Project/blob/main/Tableau%20Dashboard%20image.png"> Tableu Dashboard</a>
 ## Key Learnings
-Strong understanding of relational databases and joins
-Practical use of MySQL for business insights
-Importance of data modelling and KPIs
+Strong understanding of relational databases and joins<br>
+Practical use of MySQL for business insights<br>
+Importance of data modelling and KPIs<br>
 Effective storytelling through dashboards and visual analytics
 ## Summary
 The processed data was visualized using interactive dashboards to track trends, patterns, and performance.
